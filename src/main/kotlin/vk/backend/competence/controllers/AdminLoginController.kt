@@ -9,7 +9,7 @@ class AdminLoginController {
 
     @GetMapping("/demo")
     fun demo():String{
-        return "Hello Vikrant"
+        return "Vikrant This side"
     }
 
 }
